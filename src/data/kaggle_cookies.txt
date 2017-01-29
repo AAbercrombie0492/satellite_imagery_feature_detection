@@ -1,0 +1,14 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/details/data-processing-tutorial
+#
+www.kaggle.com	FALSE	/	FALSE	1510894596	ai_user	GRgTh|2016-11-17T04:56:36.657Z
+.kaggle.com	TRUE	/	TRUE	1543700755.141191	.ASPXAUTH	17AB9B355F8703D7BC0B43B4230D1278D999A37227CF1C437678EE2B35BA3780786F48AADEA51A7E55D2D24D675BF85763F35115180B450D533C5B7FC37BB64337C627353A2E613B40BF70E44860FD97A3506B05
+www.kaggle.com	FALSE	/	FALSE	0	__RequestVerificationToken	fzQtfxPGxBG6N4hjjdHyd9oVkj1KFp4Kvw5_kRqzI-xCU-HDtM5mPuifTpMcnPyXLtKvqPLZ2umARvnBmJAxS2prbL01
+.kaggle.com	TRUE	/	FALSE	1548703844	_ga	GA1.2.1216970383.1479358598
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	7aaf500a11bf32193b4c22bc7cd9ac71e120673eb5abf5fbcd637accebc2e973
+.kaggle.com	TRUE	/	FALSE	1485641792	__utmt	1
+.kaggle.com	TRUE	/	FALSE	1548713192	__utma	158690720.1216970383.1479358598.1485639747.1485640219.28
+.kaggle.com	TRUE	/	FALSE	1485642992	__utmb	158690720.2.10.1485640219
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1501409192	__utmz	158690720.1485640219.28.21.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
